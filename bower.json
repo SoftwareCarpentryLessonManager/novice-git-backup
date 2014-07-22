@@ -7,5 +7,9 @@
   "keywords": [
     "git"
   ],
-  "license": "CC BY 3.0 Unported"
+  "license": "CC BY 3.0 Unported",
+  "dependencies": {
+    "novice-shell-filedir": "https://github.com/SoftwareCarpentryLessonManager/novice-shell-filedir",
+    "novice-git-intro": "https://github.com/SoftwareCarpentryLessonManager/novice-git-intro"
+  }
 }
