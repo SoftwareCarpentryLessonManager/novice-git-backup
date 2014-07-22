@@ -1,6 +1,6 @@
 ---
 layout: lesson
-root: ../..
+root: ..
 title: A Better Kind of Backup
 ---
 <div class="objectives" markdown="1">
